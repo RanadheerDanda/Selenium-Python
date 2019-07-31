@@ -1,0 +1,60 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+class BrowserInteractions():
+
+    def test(self):
+        path = 'F:\\selenium-java-3.141.59\\geckodriver.exe'
+        baseUrl = 'http://www.qaclickacademy.com/practice.php'
+        driver = webdriver.Firefox(executable_path=path)
+        driver.get(baseUrl)
+        table = driver.find_elements_by_xpath('//table/tbody/tr/td[1]/ul/li/a')
+
+        for link in table:
+            print(link.get_attribute('href'))
+            link.send_keys(Keys.CONTROL + Keys.ENTER)
+        time.sleep(5)
+        # Window Maximize
+        driver.maximize_window()
+
+        # Open the Url
+        driver.get(baseUrl)
+
+        # Get Title
+        title=driver.title
+
+        print("Title of the web page is: " + title)
+        # Get Current Url
+        currentUrl =driver.current_url
+        print("Current Url of the web page is: " + currentUrl)
+        # Browser Refresh
+        driver.refresh()
+
+        print("Browser Refreshed 1st time")
+        driver.get(currentUrl)
+
+        print("Browser Refreshed 2nd time")
+        # Open another Url
+        driver.get("https://sso.teachable.com/secure/42299/users/sign_in?reset_purchase_session=1")
+        currentUrl =driver.current_url
+        print("Current Url of the web page is: " + currentUrl)
+        # Browser Back
+        driver.back()
+
+        print("Go one step back in browser history")
+        currentUrl = driver.current_url
+        print("Current Url of the web page is: " + currentUrl)
+        # Browser Forward
+        driver.forward()
+        print("Go one step forward in browser history")
+        currentUrl = driver.current_url
+        print("Current Url of the web page is: " + currentUrl)
+        # Get Page Source
+        pageSource = driver.page_source
+        print(pageSource)
+        # Browser Close / Quit
+        # driver.close()
+        driver.close()
+
+ff = BrowserInteractions()
+ff.test()
