@@ -8,6 +8,7 @@ Mac:
 http://stackoverflow.com/questions/3387695/add-to-python-path-mac-os-x
 """
 import unittest
+import UnitTestPackage.test_class2
 
 class TestClass1(unittest.TestCase):
 

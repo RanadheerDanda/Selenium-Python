@@ -1,6 +1,6 @@
 import unittest
 
-class TestCaseDemo(unittest.TestCase):
+class TestCaseDemo2(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):

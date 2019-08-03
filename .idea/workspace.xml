@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="069bc78e-4011-4903-a985-a3f4b0c8c48e" name="Default Changelist" comment="" />
+    <list default="true" id="069bc78e-4011-4903-a985-a3f4b0c8c48e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonTestPackage/class_to_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTestPackage/test_class_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTestPackage/test_class_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesforceTesting/SalesforceAccountEdit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesforceTesting/SalesforceLeadConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesforceTesting/SalesforceOptyEdit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesforceTesting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesforceTesting/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.idea/letskodeit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/base/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/base/selenium_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/base/webdriverfactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/configfiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/courses/register_courses_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/home/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/pages/home/navigation_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1495662637416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1495662697307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496273278788.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496273699617.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496273904491.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496274120153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496274675357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496274810293.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/screenshots/Login Verification.1496275038365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/.cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/courses/register_courses_csv_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/courses/register_courses_multiple_data_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/courses/register_courses_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/home/.cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/home/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/home/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/home/login_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/tests/test_suite_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/utilities/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/utilities/read_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/utilities/teststatus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/utilities/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonTestPackage/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTestPackage/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonTestPackage/test_case_demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTestPackage/test_case_demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonTestPackage/test_conftest_demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTestPackage/test_conftest_demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonTestPackage/test_run_order_demo_before_after.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTestPackage/test_run_order_demo_before_after.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumPractice/ExplicitWait.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumPractice/ExplicitWait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestPackage/assert_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestPackage/assert_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestPackage/test_case_demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestPackage/test_case_demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestPackage/test_class1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestPackage/test_class1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestPackage/test_suite_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestPackage/test_suite_demo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,24 +92,33 @@
       <dir>F:\PythonPractice\UnitTestPackage</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SeleniumPractice/FindElementsPractice.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1OT5VukW9EcTHGjllk0ooCatiXL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SeleniumPractice" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PythonPractice" />
+      <recent name="F:\PythonPractice\PythonTestPackage" />
+      <recent name="F:\PythonPractice\SalesforceTesting" />
+      <recent name="F:\PythonPractice\SeleniumPractice" />
+      <recent name="F:\PythonPractice\UnitTestPackage" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\SeleniumPractice" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\PythonPractice\SeleniumPractice" />
-      <recent name="F:\PythonPractice\PythonTestPackage" />
-      <recent name="F:\PythonPractice\UnitTestPackage" />
-      <recent name="F:\PythonPractice\LoggingPackage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,71 +133,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.auto_complete">
-    <configuration name="ExpediaE2EUsingJS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumPractice/ExpediaE2EUsingJS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="KSRTCE2EUsingJS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumPractice/KSRTCE2EUsingJS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="auto_complete" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumPractice/auto_complete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="conftest.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest for test_class_demo2.TestClassDemo">
+    <configuration name="class_to_test.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\PythonPractice\PythonTestPackage\conftest.py" />
+      <option name="SCRIPT_NAME" value="F:\PythonPractice\PythonTestPackage\class_to_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,34 +155,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_case_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for test_class_demo1.TestClassDemo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTestPackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTestPackage/test_case_demo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_class_demo1.TestClassDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_class_demo2.TestClassDemo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTestPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_class_demo2.TestClassDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_run_order_demo_before_after.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTestPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PythonTestPackage/test_run_order_demo_before_after.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_run_order_demo_default_ordering.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTestPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PythonTestPackage/test_run_order_demo_default_ordering.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.auto_complete" />
-        <item itemvalue="Python.conftest.py" />
-        <item itemvalue="Python.test_case_demo2" />
-        <item itemvalue="Python.ExpediaE2EUsingJS (1)" />
-        <item itemvalue="Python.KSRTCE2EUsingJS" />
+        <item itemvalue="Python tests.pytest for test_class_demo2.TestClassDemo" />
+        <item itemvalue="Python tests.pytest for test_class_demo1.TestClassDemo" />
+        <item itemvalue="Python.class_to_test.py" />
+        <item itemvalue="Python tests.pytest in test_run_order_demo_before_after.py" />
+        <item itemvalue="Python tests.pytest in test_run_order_demo_default_ordering.py" />
       </list>
     </recent_temporary>
   </component>
@@ -186,40 +238,24 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_for_test_case_demo_TestCaseDemo - 2019.07.24 at 14h 25m 00s.xml">
-      <configuration name="Unittests for test_case_demo.TestCaseDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_case_demo_TestCaseDemo - 2019.07.24 at 14h 25m 32s.xml">
-      <configuration name="Unittests for test_case_demo.TestCaseDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_case_demo_TestCaseDemo - 2019.07.24 at 14h 26m 50s.xml">
-      <configuration name="Unittests for test_case_demo.TestCaseDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_case_demo2_TestCaseDemo - 2019.07.24 at 14h 34m 30s.xml">
-      <configuration name="Unittests for test_case_demo2.TestCaseDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_case_demo2_TestCaseDemo - 2019.07.24 at 14h 35m 07s.xml">
-      <configuration name="Unittests for test_case_demo2.TestCaseDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_assert_demo_AssertDemo_test_assertTrueFalse - 2019.07.24 at 14h 48m 26s.xml">
-      <configuration name="Unittests for assert_demo.AssertDemo.test_assertTrueFalse" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_assert_demo_py - 2019.07.24 at 14h 48m 33s.xml">
-      <configuration name="Unittests in assert_demo.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_assert_demo_AssertDemo - 2019.07.24 at 14h 48m 38s.xml">
-      <configuration name="Unittests for assert_demo.AssertDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_assert_demo_AssertDemo - 2019.07.24 at 14h 49m 08s.xml">
-      <configuration name="Unittests for assert_demo.AssertDemo" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_assert_demo_AssertDemo_test_assertEqual - 2019.07.24 at 14h 49m 48s.xml">
-      <configuration name="Unittests for assert_demo.AssertDemo.test_assertEqual" configurationId="tests" />
-    </history-entry>
-  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,6 +283,10 @@
           <url>file://$PROJECT_DIR$/SeleniumPractice/Switch_Frame_Example.py</url>
           <line>37</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonTestPackage/test_class_demo1.py</url>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
