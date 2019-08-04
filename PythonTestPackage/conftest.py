@@ -21,13 +21,15 @@ def oneTimeSetUp(request,browser, osType):
         value = 20
         print("Running tests on chrome")
 
-    if request.cls is not None:
-        request.cls.value = value
+    # if request.cls is not None:
+    #     request.cls.value = value
 
-    yield value
-    print("Running one time tearDown")
     yield
-    print("Running one time tearDown")
+
+    # yield value
+    # print("Running one time tearDown")
+    # yield
+    # print("Running one time tearDown")
 
 def pytest_addoption(parser):
     parser.addoption("--browser")

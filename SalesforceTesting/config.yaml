@@ -1,0 +1,9 @@
+#Example YAML file
+
+driver_path: 'F:\\selenium-java-3.141.59\\geckodriver.exe'
+base_url: 'https://login.salesforce.com/'
+username: drr.nani@gmail.com
+password: Salesforce1!
+browser: chrome
+IMPLICIT_WAIT: 20
+EXPLICIT_WAIT: 20
