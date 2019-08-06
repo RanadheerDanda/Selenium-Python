@@ -51,15 +51,15 @@ class SF_Accounts:
                     drpdwn=self.driver.find_element(By.XPATH,str(self.sf_locators.str_common_dropdown).replace('<<text_replace>>',field))
                     select = Select(drpdwn)
                     select.select_by_visible_text(data_type[0])
-                elif(data_type[1]=='lookup'):
-                    window_before = self.driver.current_window_handle
-                    self.driver.find_element(By.XPATH,str(self.sf_locators.str_lookup_icon).replace('<<text_replace>>',field)).click()
-                    window_after = self.driver.window_handles[1]
-                    self.driver.switch_to.window(window_after)
-                    self.driver.switch_to.frame('resultsFrame')
-                    self.driver.find_element(By.PARTIAL_LINK_TEXT, data_type[0]).click()
-                    time.sleep(2)
-                    self.driver.switch_to(window_before)
+                # elif(data_type[1]=='lookup'):
+                #     window_before = self.driver.current_window_handle
+                #     self.driver.find_element(By.XPATH,str(self.sf_locators.str_lookup_icon).replace('<<text_replace>>',field)).click()
+                #     window_after = self.driver.window_handles[1]
+                #     self.driver.switch_to.window(window_after)
+                #     self.driver.switch_to.frame('resultsFrame')
+                #     self.driver.find_element(By.PARTIAL_LINK_TEXT, data_type[0]).click()
+                #     time.sleep(2)
+                #     self.driver.switch_to(window_before)
 
                 else:
                     pass
