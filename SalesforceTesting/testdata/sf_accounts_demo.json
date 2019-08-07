@@ -1,0 +1,23 @@
+{
+"create_account_data":
+        {
+
+            "Record Type of new record": ["Master Account Layout" ,"drodown"],
+            "Account Information":
+
+                    {
+                      "Account Name":"Test User125",
+                      "Phone": "123456782",
+                      "Billing Street": "123 test stt",
+                      "Billing City": "New York1",
+                      "Billing State/Province": "NY",
+                      "Billing Zip/Postal Code": "10036",
+                      "Billing Country": "United States",
+                        "SLA": "Platinum",
+                      "Parent Account":"Test Cognizant1"
+
+                    }
+                    }
+
+
+}
