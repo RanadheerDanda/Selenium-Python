@@ -6,15 +6,15 @@
             "Account Information":
 
                     {
-                      "Account Name":"Test User125",
-                      "Phone": "123456782",
+                      "Account Name":"Ranadheer",
+                      "Phone": "8500822999",
                       "Billing Street": "123 test stt",
                       "Billing City": "New York1",
                       "Billing State/Province": "NY",
                       "Billing Zip/Postal Code": "10036",
                       "Billing Country": "United States",
-                        "SLA": "Platinum",
-                      "Parent Account":"Test Cognizant1"
+                      "SLA": "Platinum",
+                      "Parent Account":"Test Parent"
 
                     }
                     }
